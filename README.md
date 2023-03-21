@@ -55,12 +55,6 @@ ______________
   - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
 <br></br>
     ______________
-- 4 - Bayesian optimization and variational inference:
-  - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
-  - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
-  - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
-<br></br>
-    ______________
 - 5 - Bayes and generative ML models: Variational autoencoders, Normalizing flows, Gaussian processes, other topics not covered yet:
   - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
   - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
