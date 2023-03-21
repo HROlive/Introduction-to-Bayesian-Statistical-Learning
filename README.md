@@ -1,5 +1,7 @@
 #  Introduction to Bayesian Statistical Learning
-![Course](images/banner.png)
+<p align="center">
+  <img src="images/banner.png">
+</p>
 
 ## Table of Contents
 1. [Description](#description)
