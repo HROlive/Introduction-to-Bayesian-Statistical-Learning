@@ -31,31 +31,27 @@ More detailed information, links and software setup for the course can be found 
 ## File descriptions
 
 The description of the files in this repository can be found bellow:
-- 1 - Bayes theorem, posterior distributions, working with PyMC:
-  - [Lab1-Anomaly Detection in Network Data using GPU-Accelerated XGBoost](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-Anomaly%20Detection%20in%20Network%20Data%20using%20GPU-Accelerated%20XGBoost.ipynb) - Notebook;
-  - [Lab1-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-preprocess_data.py) - Script;
-  - [Lab1-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-Presentation.pptx) - Slides;
+- Day 1 and 2 - Bayes theorem, posterior distributions, working with PyM and more PyMC examples:
+  - [Lecture_1_examples](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%201%20and%202/Lecture_1_examples.ipynb) - Notebook (Introduction);
+  - [BLcourse1.2](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%201%20and%202/BLcourse1.2.ipynb) - Notebook (More PyMC3 examples);
+  - [separation_plot](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%201%20and%202/separation_plot.py) - Script;
+  - [daft_plot](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%201%20and%202/daft_plot.py) - Script;
+  - [LBLcourse1](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%201%20and%202/BLcourse1.pdf) - Slides;
 <br></br>
 ______________
-- 2 - More PyMC examples:
-  - [Lab2-Network Anomaly Detection using Autoencoders](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-Network%20Anomaly%20Detection%20using%20Autoencoders.ipynb) - Notebook;
-  - [Lab2-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-preprocess_data.py) - Script;
-  - [Lab2-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-Presentation.pptx) - Slides;
-<br></br>
-______________
-- 3 - Markov chain Monte Carlo (MCMC) methods:
+- Day 3 - Markov chain Monte Carlo (MCMC) methods:
   - [Lab3-Anomaly Detection in Network Data using GANS](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-Anomaly%20Detection%20in%20Network%20Data%20using%20GANS.ipynb) - Notebook;
   - [Lab3-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-preprocess_data.py) - Script;
   - [Lab3-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-Presentation.pptx) - Slides;
 <br></br>
 ______________
-- 4 - Bayesian optimization and variational inference:
+- Day 4 - Bayesian optimization and variational inference:
   - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
   - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
   - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
 <br></br>
     ______________
-- 5 - Bayes and generative ML models: Variational autoencoders, Normalizing flows, Gaussian processes, other topics not covered yet:
+- Day 5 - Bayes and generative ML models: Variational autoencoders, Normalizing flows, Gaussian processes, other topics not covered yet:
   - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
   - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
   - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
