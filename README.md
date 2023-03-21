@@ -36,58 +36,36 @@ The description of the files in this repository can be found bellow:
   - [Lab1-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-preprocess_data.py) - Script;
   - [Lab1-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab1-Presentation.pptx) - Slides;
 <br></br>
-  > Learn how to detect anomalies using supervised learning:
-    > - Prepare data for GPU acceleration using the provided dataset.
-    > - Train a binary and multi-class classifier using the popular machine learning algorithm XGBoost.
-    > - Assess and improve your model’s performance before deployment.
 ______________
 - 2 - More PyMC examples:
   - [Lab2-Network Anomaly Detection using Autoencoders](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-Network%20Anomaly%20Detection%20using%20Autoencoders.ipynb) - Notebook;
   - [Lab2-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-preprocess_data.py) - Script;
   - [Lab2-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab2-Presentation.pptx) - Slides;
 <br></br>
-  > Learn how to detect anomalies using modern unsupervised learning:
-    > - Build and train a deep learning-based autoencoder to work with unlabeled data.
-    > - Apply techniques to separate anomalies into multiple classes.
-    > - Explore other applications of GPU-accelerated autoencoders.
 ______________
 - 3 - Markov chain Monte Carlo (MCMC) methods:
   - [Lab3-Anomaly Detection in Network Data using GANS](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-Anomaly%20Detection%20in%20Network%20Data%20using%20GANS.ipynb) - Notebook;
   - [Lab3-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-preprocess_data.py) - Script;
   - [Lab3-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-Presentation.pptx) - Slides;
 <br></br>
-  > Learn how to detect anomalies using GANs:
-    > - Train an unsupervised learning model to create new data.
-    > - Use that new data to turn the problem into a supervised learning problem.
-    > - Compare the performance of this new approach to more established approaches.
 ______________
 - 4 - Bayesian optimization and variational inference:
   - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
   - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
   - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
 <br></br>
-  > Learn how to detect anomalies using GANs:
-    > - Train an unsupervised learning model to create new data.
-    > - Use that new data to turn the problem into a supervised learning problem.
-    > - Compare the performance of this new approach to more established approaches.
     ______________
 - 4 - Bayesian optimization and variational inference:
   - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
   - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
   - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
 <br></br>
-  > Learn how to detect anomalies using GANs:
-    > - Train an unsupervised learning model to create new data.
-    > - Use that new data to turn the problem into a supervised learning problem.
     ______________
 - 5 - Bayes and generative ML models: Variational autoencoders, Normalizing flows, Gaussian processes, other topics not covered yet:
   - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
   - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
   - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
 <br></br>
-  > Learn how to detect anomalies using GANs:
-    > - Train an unsupervised learning model to create new data.
-    > - Use that new data to turn the problem into a supervised learning problem.
 
 <a name="certificate"></a>
 ## Certificate
