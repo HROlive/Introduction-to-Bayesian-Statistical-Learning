@@ -40,9 +40,8 @@ The description of the files in this repository can be found bellow:
 <br></br>
 ______________
 - Day 3 - Markov chain Monte Carlo (MCMC) methods:
-  - [Lab3-Anomaly Detection in Network Data using GANS](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-Anomaly%20Detection%20in%20Network%20Data%20using%20GANS.ipynb) - Notebook;
-  - [Lab3-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-preprocess_data.py) - Script;
-  - [Lab3-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Lab3-Presentation.pptx) - Slides;
+  - [Lecture2_comp](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%203/Lecture2_comp.ipynb) - Notebook (MCMC, Laplace approximation);
+  - [BLcourse2](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%203/BLcourse2.pdf) - Slides;
 <br></br>
 ______________
 - Day 4 - Bayesian optimization and variational inference:
