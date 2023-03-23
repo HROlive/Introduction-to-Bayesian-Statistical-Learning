@@ -45,15 +45,16 @@ ______________
 <br></br>
 ______________
 - Day 4 - Bayesian optimization and variational inference:
-  - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
-  - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
-  - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
+  - [avb_gaussian](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%204/avb_gaussian.ipynb) - Notebook (Analytic Variational Bayes, Inferring a single Gaussian);
+  - [svb_gaussian_tf2](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%204/svb_gaussian_tf2.ipynb) - Notebook (Stochastic Variational Bayes);
+  - [svb_biexp_tf2](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%204/svb_biexp_tf2.ipynb) - Notebook (Stochastic Variational Bayes - example nonlinear model);
+  - [Assessment-Presentation](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%204/BLcourse3.pdf) - Slides;
 <br></br>
     ______________
 - Day 5 - Bayes and generative ML models: Variational autoencoders, Normalizing flows, Gaussian processes, other topics not covered yet:
   - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
   - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
-  - [Assessment-Presentation](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
+  - [BLcourse3](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
 <br></br>
 
 <a name="certificate"></a>
