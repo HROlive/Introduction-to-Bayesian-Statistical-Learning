@@ -52,9 +52,12 @@ ______________
 <br></br>
     ______________
 - Day 5 - Bayes and generative ML models: Variational autoencoders, Normalizing flows, Gaussian processes, other topics not covered yet:
-  - [Workshop Assessment](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment.ipynb) - Notebook;
-  - [Assessment-preprocess_data](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-preprocess_data.py) - Script;
-  - [BLcourse3](https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection/blob/main/Assessment-Presentation.pptx) - Slides;
+  - [01_simple_gp_regression](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%205/01_simple_gp_regression.ipynb) - Notebook (Regression);
+  - [01_simple_gp_regression](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%205/01_simple_gp_regression.py) - Script (Regression);
+  - [bayesian_neural_networks_wine](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%205/bayesian_neural_networks_wine.ipynb) - Notebook (Probabilistic Bayesian Neural Networks);
+  - [flows](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%205/flows.ipynb) - Notebook (Normalizing Flows);
+  - [vae_mod](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%205/vae_mod.ipynb) - Notebook (Variational Autoencoder);
+  - [BLcourse4](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/Day%205/BLcourse4.pdf) - Slides;
 <br></br>
 
 <a name="certificate"></a>
