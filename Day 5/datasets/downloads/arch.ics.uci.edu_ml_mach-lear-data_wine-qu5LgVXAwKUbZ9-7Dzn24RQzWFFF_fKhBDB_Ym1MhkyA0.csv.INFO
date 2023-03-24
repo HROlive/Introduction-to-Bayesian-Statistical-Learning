@@ -1,0 +1,1 @@
+{"dataset_names": ["wine_quality"], "original_fname": "winequality-white.csv", "url_info": {"checksum": "76c3f809815c17c07212622f776311faeb31e87610d52c26d87d6e361b169836", "filename": "winequality-white.csv", "size": 264426}, "urls": ["https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv"]}
