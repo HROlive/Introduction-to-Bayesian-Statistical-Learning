@@ -65,4 +65,4 @@ ______________
 
 The certificate for the workshop can be found bellow:
 
-["Introduction to Bayesian Statistical Learning" - Jülich Supercomputing Centre (JSC)]() (Issued On: March 2023)
+["Introduction to Bayesian Statistical Learning" - Jülich Supercomputing Centre (JSC)](https://github.com/HROlive/Introduction-to-Bayesian-Statistical-Learning/blob/main/images/certificate.pdf) (Issued On: March 2023)
